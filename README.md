@@ -32,19 +32,11 @@ exit();
 
 }
 
-
-
-
 ?>
-
-
-
 
 <html>
 <head>
 </head>
-
-
 <body>
 <form method="post" action="login.php">
 Username: <input type="text" name="Username"/><br/><br/>
